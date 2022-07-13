@@ -11,5 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "got": "^12.1.0"
+  },
+  {
+  "force": {
+    "constraints": {
+      "npm": "8.0.0"
+    }
   }
 }
