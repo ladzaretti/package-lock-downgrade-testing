@@ -1,5 +1,4 @@
 {
-  "labels": ["maintenance"],
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": ["at any time"]
